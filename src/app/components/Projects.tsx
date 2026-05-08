@@ -6,16 +6,16 @@ import { Badge } from "./ui/badge";
 
 const projects = [
   {
+    title: "CommuteX",
+    description: "Developed a Smart Vehicle Route Planner web app with secure authentication, OTP login, user dashboard, and an interactive route planning interface enabling smooth navigation and real-time user interaction.",
+    techStack: ["React", "Node.js", "Authentication", "Maps API"],
+    icon: "🚗",
+  },
+  {
     title: "AI Route Optimization System",
     description: "Developed a system to optimize delivery routes using graph algorithms.",
     techStack: ["Python", "Dijkstra Algorithm"],
     icon: "🚀",
-  },
-  {
-    title: "Student Performance Predictor",
-    description: "Built a machine learning model to predict student performance.",
-    techStack: ["Python", "ML algorithms"],
-    icon: "📊",
   },
   {
     title: "Domestic Waste Management Detector",
@@ -24,10 +24,10 @@ const projects = [
     icon: "♻️",
   },
   {
-    title: "Data Analytics Dashboard",
-    description: "Created an interactive dashboard to visualize and analyze data.",
-    techStack: ["Power BI", "Excel"],
-    icon: "📈",
+    title: "SkillMatch (Ideation)",
+    description: "AI Opportunity Matching Platform - Designed a concept for an AI-powered system that matches learners with opportunities based on verified skills.",
+    techStack: ["AI/ML", "Skill Matching", "Opportunity Matching"],
+    icon: "🎯",
   },
 ];
 
