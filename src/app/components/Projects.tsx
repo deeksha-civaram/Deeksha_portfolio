@@ -18,6 +18,12 @@ const projects = [
     icon: "📊",
   },
   {
+    title: "Domestic Waste Management Detector",
+    description: "Developed a household waste classification system to predict wet, dry, recyclable, or hazardous categories from waste attributes.",
+    techStack: ["Python", "Machine Learning"],
+    icon: "♻️",
+  },
+  {
     title: "Data Analytics Dashboard",
     description: "Created an interactive dashboard to visualize and analyze data.",
     techStack: ["Power BI", "Excel"],
