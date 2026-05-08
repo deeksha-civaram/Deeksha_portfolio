@@ -101,7 +101,7 @@ export function Hero() {
             <Linkedin className="h-6 w-6 text-primary" />
           </a>
           <a
-            href="#"
+            href="https://github.com/deeksha-civaram"
             target="_blank"
             rel="noopener noreferrer"
             className="p-3 rounded-full border border-border hover:border-primary hover:bg-primary/10 transition-all"

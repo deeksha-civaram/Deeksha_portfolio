@@ -57,7 +57,7 @@ export function Contact() {
             </motion.a>
 
             <motion.a
-              href="#"
+              href="https://github.com/deeksha-civaram"
               target="_blank"
               rel="noopener noreferrer"
               initial={{ opacity: 0, y: 30 }}
